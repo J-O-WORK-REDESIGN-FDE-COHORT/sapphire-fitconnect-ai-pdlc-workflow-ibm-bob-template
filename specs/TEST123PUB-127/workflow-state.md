@@ -7,7 +7,7 @@
 - Last Updated: 2025-08-13
 
 ## CURRENT_STAGE
-PHASE_7C_PENDING
+PHASE_7D_PENDING
 
 ## Completed Phases
 - [x] Phase 1: Constitution Verified
@@ -28,7 +28,7 @@ PHASE_7C_PENDING
 - [x] CHECKPOINT 2B: Submitter Tasks Review
 - [x] Phase 7A: Analysis Entry Gates
 - [x] Phase 7B: Analyze
-- [ ] Phase 7C: Tasks PR Raised
+- [x] Phase 7C: Tasks PR Raised
 - [ ] Phase 7D: Tasks PR Approved
 - [ ] Phase 7E: Jira Stories Updated with Tasks
 - [ ] CHECKPOINT 3: Ready for Implementation
@@ -52,7 +52,7 @@ PHASE_7C_PENDING
 - Contracts: [contracts/](contracts/) — (not yet started)
 - Quickstart: [quickstart.md](quickstart.md) — (not yet started)
 - Backward-Compat Assessment: [backwards-compat-assessment.md](backwards-compat-assessment.md) — (not yet started)
-- Tasks PR: (not yet raised)
+- Tasks PR: https://github.com/J-O-WORK-REDESIGN-FDE-COHORT/sapphire-fitconnect-ai-pdlc-workflow-ibm-bob-template/pull/2
 - Implementation PRs: (pending)
 
 ## Child Stories
