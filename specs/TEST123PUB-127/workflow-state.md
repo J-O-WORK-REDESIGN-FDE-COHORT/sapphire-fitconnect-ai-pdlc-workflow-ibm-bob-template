@@ -7,7 +7,7 @@
 - Last Updated: 2025-08-13
 
 ## CURRENT_STAGE
-CLARIFY_PENDING
+PHASE_4B_PENDING
 
 ## Completed Phases
 - [x] Phase 1: Constitution Verified
@@ -17,9 +17,9 @@ CLARIFY_PENDING
 - [ ] CHECKPOINT 2: Submitter Review
 - [ ] Phase 3A: Spec PR Raised
 - [ ] Phase 3B: Spec PR Approved
-- [ ] Phase 3C: Plan Entry Gates
-- [ ] Phase 4: Plan
-- [ ] CHECKPOINT 2A: Submitter Plan Review
+- [x] Phase 3C: Plan Entry Gates
+- [x] Phase 4: Plan
+- [x] CHECKPOINT 2A: Submitter Plan Review
 - [ ] Phase 4A: Plan PR Raised
 - [ ] Phase 4B: Plan Approved
 - [ ] Phase 5: Child Stories Created
@@ -41,12 +41,17 @@ CLARIFY_PENDING
 - [ ] CHECKPOINT 5: PRs Created
 
 ## Key Data
-- Spec PR: (not yet raised)
+- Spec: [spec.md](spec.md) — COMPLETE
 - Spec Approval (`product_owner`): (pending)
-- Plan PR: (not yet raised)
+- Plan: [plan.md](plan.md) — COMPLETE (F-2 corrected; findings F-3–F-6 deferred to tasks)
+- Analysis: [analysis.md](analysis.md) — COMPLETE (2025-08-13) — 🟡 CONDITIONAL PASS
 - Plan Approval (`fde`): (pending)
+- Research Output: [research.md](research.md) — (not yet started)
+- Data Model: [data-model.md](data-model.md) — (not yet started)
+- Contracts: [contracts/](contracts/) — (not yet started)
+- Quickstart: [quickstart.md](quickstart.md) — (not yet started)
+- Backward-Compat Assessment: [backwards-compat-assessment.md](backwards-compat-assessment.md) — (not yet started)
 - Tasks PR: (not yet raised)
-- Tasks Approval (`fde`): (pending)
 - Implementation PRs: (pending)
 
 ## Child Stories
