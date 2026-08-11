@@ -1,7 +1,7 @@
 {
     "mcpServers": {
         "jira": {
-            "command": "docker",
+            "command": "/opt/podman/bin/podman",
             "args": [
                 "run",
                 "--rm",
@@ -45,7 +45,7 @@
             ]
         },
         "github_local_mcp": {
-            "command": "docker",
+            "command": "/opt/podman/bin/podman",
             "args": [
                 "run",
                 "-i",
@@ -58,13 +58,13 @@
                 "GITHUB_READ_ONLY",
                 "-e",
                 "GITHUB_HOST",
-                "ghcr.io/github/github-mcp-server"
+                "ghcr.io/github/github-mcp-server:latest"
             ],
             "env": {
                 "GITHUB_PERSONAL_ACCESS_TOKEN": "${env:GITHUB_PERSONAL_ACCESS_TOKEN}",
                 "GITHUB_TOOLSETS": "",
                 "GITHUB_READ_ONLY": "",
-                "GITHUB_HOST": "https://github.ibm.com"
+                "GITHUB_HOST": "https://github.com"
             },
             "alwaysAllow": [
                 "list_pull_requests"
@@ -74,8 +74,8 @@
             "type": "streamable-http",
             "url": "https://servicesessentials.ibm.com/mcp-gateway/service/gateway/servers/8ccdd203bdee4014b08e82eedb6046e2/mcp",
             "headers": {
-                "Authorization": "Bearer <token>",
-                "x-api-key": "<api-key>"
+                "Authorization": "Bearer ${env:CONTEXT_STUDIO_BEARER_TOKEN}",
+                "x-api-key": "${env:CONTEXT_STUDIO_API_KEY}"
             }
         }
     }

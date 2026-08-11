@@ -11,7 +11,7 @@
 # Mode A — local path (sibling repo directory or direct file path)
 #   global_source:
 #     mode: local
-#     path: ../org-policy-files/engineering
+#     path: ./org-policy-files/engineering
 #
 # Mode B — MCP (fetch from mcp provider; see connection-types section below for provider configuration)
 #   global_source:
@@ -29,7 +29,7 @@ constitution:
     mode: external  #allowed values: local | external | none
     connection-types:
       MCP:
-        provider: context-studio
+         provider: context-studio
 
 # ---------------------------------------------------------------------------
 # pdlc — PDLC workflow settings
