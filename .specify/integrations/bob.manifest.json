@@ -3,15 +3,15 @@
   "version": "0.5.0",
   "installed_at": "2026-04-05T17:12:51.512567+00:00",
   "files": {
-    ".bob/commands/speckit.analyze.md": "878794d6a6e36b485c29c341c2de20c9645d9f4bbe9d14f116f2d01b7a54f144",
+    ".bob/commands/speckit.analyze.md": "c0800e73a8998723eaed062a168ddeae07e771c313fa01797a9a7c40a443ebd9",
     ".bob/commands/speckit.checklist.md": "61c18de271af8709cc43d10daf637a530b625c2924ab7bd94cf6134fd7db0c2a",
-    ".bob/commands/speckit.clarify.md": "f3df62502e93b4373013dfbbd179176770cce3073b60e9c361aea1e8426ce455",
-    ".bob/commands/speckit.constitution.md": "89e14df67db5f8a52b8802a6e396b69d3e4badc46e97de804810aaaf439e0d5e",
-    ".bob/commands/speckit.implement.md": "9dda40376414146a8992d09e6853976c75708ba4cad7d9df9fcd6e7faa8f0a4c",
-    ".bob/commands/speckit.plan.md": "6e03a63c79cc8826bc833002e03ad8770423bc4217168daf141a21c24231f962",
-    ".bob/commands/speckit.specify.md": "f75a5652f234d49b26df322d52f9d2dd518f66f02a3d55954a6054dd15bd007c",
-    ".bob/commands/speckit.tasks.md": "d505523168e1f1c758350da9d45c08ff990ed8686d6bc8451db8b89a145768a4",
-    ".bob/commands/speckit.taskstoissues.md": "244ec825d8bd8bedafe3212aea9a059e6a47fcd7a29ee148c5a40b5ecbcb5198",
+    ".bob/commands/speckit.clarify.md": "4847d197a8a575b88e70440be990144a7aef3c39481eed837b637ed23702141b",
+    ".bob/commands/speckit.constitution.md": "ee25f232a51888a5825c68f6e6ec0bd5dc20f8993fa678fb208460d863a40083",
+    ".bob/commands/speckit.implement.md": "c41a10741afb368ff29fa381ca4a4b448c8f1b460173e4d0444421d73b3f547b",
+    ".bob/commands/speckit.plan.md": "c5425d8f1f05e8973f5c1ec497450f6f81c644fde51ed37f1b452b812e71242e",
+    ".bob/commands/speckit.specify.md": "1ef1f20b0e5419dda97e92f1fca88cd673f195d22022a47137402dec2bdcdb90",
+    ".bob/commands/speckit.tasks.md": "99fd6662295e1424661bd1ef4f4f7970d1cb00e0e143694c053f7f2bf91387b6",
+    ".bob/commands/speckit.taskstoissues.md": "9295fbf3c79e6c85c9391e586a10d318a6dbff6b0bfae00d63a19f5caf386b89",
     ".specify/integrations/bob/scripts/update-context.ps1": "5a0e732dc81fe144011b553ebe8844aa256ba304430177e490c8bd6a6ad61fb9",
     ".specify/integrations/bob/scripts/update-context.sh": "b85c04394db26a54e587d9805d634fe042ba46be7fa3b8aedc20fe32a73d94c6"
   }
