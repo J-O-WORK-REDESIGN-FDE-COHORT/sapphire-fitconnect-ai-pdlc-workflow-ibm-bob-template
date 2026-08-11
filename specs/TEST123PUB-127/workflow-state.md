@@ -20,7 +20,7 @@ PHASE_4B_PENDING
 - [x] Phase 3C: Plan Entry Gates
 - [x] Phase 4: Plan
 - [x] CHECKPOINT 2A: Submitter Plan Review
-- [ ] Phase 4A: Plan PR Raised
+- [x] Phase 4A: Plan PR Raised
 - [ ] Phase 4B: Plan Approved
 - [ ] Phase 5: Child Stories Created
 - [ ] Phase 6A: Tasks Entry Gates
@@ -44,6 +44,7 @@ PHASE_4B_PENDING
 - Spec: [spec.md](spec.md) — COMPLETE
 - Spec Approval (`product_owner`): (pending)
 - Plan: [plan.md](plan.md) — COMPLETE (F-2 corrected; findings F-3–F-6 deferred to tasks)
+- Plan PR: https://github.com/J-O-WORK-REDESIGN-FDE-COHORT/sapphire-fitconnect-ai-pdlc-workflow-ibm-bob-template/pull/1
 - Analysis: [analysis.md](analysis.md) — COMPLETE (2025-08-13) — 🟡 CONDITIONAL PASS
 - Plan Approval (`fde`): (pending)
 - Research Output: [research.md](research.md) — (not yet started)
