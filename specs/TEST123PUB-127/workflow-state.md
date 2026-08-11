@@ -7,7 +7,7 @@
 - Last Updated: 2025-08-13
 
 ## CURRENT_STAGE
-PHASE_4B_PENDING
+PHASE_6_PENDING
 
 ## Completed Phases
 - [x] Phase 1: Constitution Verified
@@ -21,8 +21,8 @@ PHASE_4B_PENDING
 - [x] Phase 4: Plan
 - [x] CHECKPOINT 2A: Submitter Plan Review
 - [x] Phase 4A: Plan PR Raised
-- [ ] Phase 4B: Plan Approved
-- [ ] Phase 5: Child Stories Created
+- [x] Phase 4B: Plan Approved
+- [x] Phase 5: Child Stories Created
 - [ ] Phase 6A: Tasks Entry Gates
 - [ ] Phase 6B: Tasks
 - [ ] CHECKPOINT 2B: Submitter Tasks Review
@@ -46,7 +46,7 @@ PHASE_4B_PENDING
 - Plan: [plan.md](plan.md) — COMPLETE (F-2 corrected; findings F-3–F-6 deferred to tasks)
 - Plan PR: https://github.com/J-O-WORK-REDESIGN-FDE-COHORT/sapphire-fitconnect-ai-pdlc-workflow-ibm-bob-template/pull/1
 - Analysis: [analysis.md](analysis.md) — COMPLETE (2025-08-13) — 🟡 CONDITIONAL PASS
-- Plan Approval (`fde`): (pending)
+- Plan Approval (`fde`): APPROVED + MERGED by jjonsson72 (2026-08-11)
 - Research Output: [research.md](research.md) — (not yet started)
 - Data Model: [data-model.md](data-model.md) — (not yet started)
 - Contracts: [contracts/](contracts/) — (not yet started)
@@ -56,7 +56,11 @@ PHASE_4B_PENDING
 - Implementation PRs: (pending)
 
 ## Child Stories
-(populated in Phase 5 — one `<repo>: <child-key>` per affected repo)
+sapphire-event-ingestion-api: TEST123PUB-132
+sapphire-kafka-pipeline: TEST123PUB-129
+sapphire-charting-api: TEST123PUB-130
+sapphire-bff-api: TEST123PUB-131
+Sapphire: TEST123PUB-133
 
 ## Affected Repos
 sapphire-event-ingestion-api, sapphire-kafka-pipeline, sapphire-charting-api, sapphire-bff-api, Sapphire
