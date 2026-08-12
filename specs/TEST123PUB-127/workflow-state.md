@@ -7,7 +7,7 @@
 - Last Updated: 2025-08-13
 
 ## CURRENT_STAGE
-PHASE_9_IN_PROGRESS
+DONE
 
 ## Completed Phases
 - [x] Phase 1: Constitution Verified
@@ -37,8 +37,8 @@ PHASE_9_IN_PROGRESS
 - [x] Phase 8C: Implement
 - [x] Phase 8D: Jira Stories Updated
 - [x] CHECKPOINT 4: Validation Complete
-- [ ] Phase 9: Raise PRs
-- [ ] CHECKPOINT 5: PRs Created
+- [x] Phase 9: Raise PRs
+- [x] CHECKPOINT 5: PRs Created
 
 ## Key Data
 - Spec: [spec.md](spec.md) — COMPLETE
@@ -54,7 +54,7 @@ PHASE_9_IN_PROGRESS
 - Backward-Compat Assessment: [backwards-compat-assessment.md](backwards-compat-assessment.md) — COMPLETE (2025-08-13)
 - Tasks PR: https://github.com/J-O-WORK-REDESIGN-FDE-COHORT/sapphire-fitconnect-ai-pdlc-workflow-ibm-bob-template/pull/2
 - Tasks Approval: jjonsson72 (MERGED 2026-08-11T22:58:27Z)
-- Implementation PRs: (pending — being raised)
+- Implementation PR: https://github.com/J-O-WORK-REDESIGN-FDE-COHORT/sapphire-fitconnect-ai-pdlc-workflow-ibm-bob-template/pull/3
 
 ## Child Stories
 sapphire-event-ingestion-api: TEST123PUB-132
